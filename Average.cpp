@@ -12,6 +12,6 @@ int main(){
     cout <<"The Bytes of int type are "<<sizeof(int)<<endl;
     cout <<"The Bytes of double type are "<<sizeof(double)<<endl;
     cout <<"The average of 5 integer number is "<<ave<<"\n";
-    
+    system("pause");
     return 0;
 }
