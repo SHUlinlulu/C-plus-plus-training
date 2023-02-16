@@ -12,7 +12,7 @@ int main(){
         cin >>arr[i];
     }
     Bubble(arr);
-    cout <<"The 10 integer sorted from low to high number are ";
+    cout <<"The 10 integer number sorted from low to high are ";
     for(int j=0;j<10;j++){
         cout <<arr[j]<<" ";
     }
